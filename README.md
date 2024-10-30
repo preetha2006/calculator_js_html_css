@@ -20,5 +20,5 @@ A simple, responsive calculator built using HTML, CSS, and JavaScript. This proj
 
 ## Demo
 
-You can access the calculator [[here](link_to_demo) ](https://github.com/preetha2006/calculator_js_html_css.git)<!-- Add a link to a live demo if you have one, like GitHub Pages -->
+You can access the calculator (https://github.com/preetha2006/calculator_js_html_css.git)<!-- Add a link to a live demo if you have one, like GitHub Pages -->
 
