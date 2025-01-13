@@ -2,8 +2,6 @@
 
 A simple, responsive calculator built using HTML, CSS, and JavaScript. This project serves as a demonstration of front-end web development skills and basic arithmetic functionalities, including addition, subtraction, multiplication,modulo and division.
 
-![image](https://github.com/user-attachments/assets/4e3d0bf1-3a4c-4ce0-9b04-1727c3da4964)
-
 
 ## Features
 
